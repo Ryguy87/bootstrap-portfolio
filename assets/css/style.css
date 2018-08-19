@@ -1,0 +1,33 @@
+body {
+    margin: 0px;
+    background-image: url("concrete_seamless.png")
+}
+
+#navbar {
+    background-color: #ffffff;
+    border-bottom-style: solid;
+    border-bottom-color: #cccccc;
+    border-bottom-width: 1.5px;
+  
+}
+
+.navbar-brand {
+    color: #4aaaa5;
+}
+
+#main {
+    /* border-style: solid; */
+    /* border-color: red; */
+    background-color: #ffffff;
+}
+
+.row {
+    background-color: transparent;
+}
+
+.secondh1 {
+    border-bottom-style: solid;
+    border-bottom-color: #dddddd;
+    color: #4aaaa5;
+    padding-bottom: 30px;
+}
